@@ -1,3 +1,5 @@
+CPP
+
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -16,3 +18,10 @@ cout<<str;
 return 0;
 }
 
+
+
+Python
+
+input_string = input()
+print('Hello, World.')
+print(input_string)
